@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mrsoft/static/css/main.89401c3b.chunk.css",
+    "main.js": "/mrsoft/static/js/main.e6d79e4a.chunk.js",
+    "main.js.map": "/mrsoft/static/js/main.e6d79e4a.chunk.js.map",
+    "runtime-main.js": "/mrsoft/static/js/runtime-main.d932454a.js",
+    "runtime-main.js.map": "/mrsoft/static/js/runtime-main.d932454a.js.map",
+    "static/css/2.de2ac02e.chunk.css": "/mrsoft/static/css/2.de2ac02e.chunk.css",
+    "static/js/2.5df0d7d9.chunk.js": "/mrsoft/static/js/2.5df0d7d9.chunk.js",
+    "static/js/2.5df0d7d9.chunk.js.map": "/mrsoft/static/js/2.5df0d7d9.chunk.js.map",
+    "static/js/3.5a4058ff.chunk.js": "/mrsoft/static/js/3.5a4058ff.chunk.js",
+    "static/js/3.5a4058ff.chunk.js.map": "/mrsoft/static/js/3.5a4058ff.chunk.js.map",
+    "index.html": "/mrsoft/index.html",
+    "static/css/2.de2ac02e.chunk.css.map": "/mrsoft/static/css/2.de2ac02e.chunk.css.map",
+    "static/css/main.89401c3b.chunk.css.map": "/mrsoft/static/css/main.89401c3b.chunk.css.map",
+    "static/js/2.5df0d7d9.chunk.js.LICENSE.txt": "/mrsoft/static/js/2.5df0d7d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d932454a.js",
+    "static/css/2.de2ac02e.chunk.css",
+    "static/js/2.5df0d7d9.chunk.js",
+    "static/css/main.89401c3b.chunk.css",
+    "static/js/main.e6d79e4a.chunk.js"
+  ]
+}
